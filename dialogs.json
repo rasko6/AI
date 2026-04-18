@@ -1,0 +1,5 @@
+[
+  { "v": "hi", "o": "Hello!" },
+  { "v": "how are you doing", "o": "I am okay. What about you?" },
+  { "v": "what can you do", "o": "I am a javascript-written AI. I can answer questions." }
+]
